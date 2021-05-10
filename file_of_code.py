@@ -1,7 +1,16 @@
 #! /usr/bin/env python3
 '''
-code to test
+Example of a script with functions.
 '''
 
-def capital_case(x):
+
+def main():
+    print(capital_case('gilles'))
+
+
+def capital_case(x: str) -> str:
     return x.capitalize()
+
+
+if __name__ == '__main__':
+    main()
