@@ -1,0 +1,8 @@
+# Add these lines after importing other modules
+import matplotlib.pyplot as plt
+%matplotlib inline
+%config InlineBackend.figure_format='svg'
+# Put all of your graph code in one cell
+# The last line of the cell displays the graph.
+plt.show
+# reference https://matplotlib.org/faq/usage_faq.html#what-is-a-backend
