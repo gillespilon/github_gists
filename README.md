@@ -1,4 +1,4 @@
-* GitHub gists
+# GitHub gists
 
 | gist                         | Description                                                                         |
 | :--                          | :--                                                                                 |
